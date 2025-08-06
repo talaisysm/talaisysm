@@ -3,7 +3,8 @@ Eu sou a Mel! 🍯
 <br>
 <br>
 <div>
-🚀 - Analista de Dados e me desenvolvendo na área de Engenharia de Dados<br>
+🚀 - Faço beleza com Dados e estou me desenvolvendo na área de Engenharia de Dados<br>
+🧴 - Atuo na frente da Crédito e Fraudes
 👾 - Amo joguinhos e amo correr!🏃🏻‍♀️ <br>
 👽 - 42
 
