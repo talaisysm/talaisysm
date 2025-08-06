@@ -4,7 +4,7 @@ Eu sou a Mel! 🍯
 <br>
 <div>
 🚀 - Faço beleza com Dados e estou me desenvolvendo na área de Engenharia de Dados<br>
-🧴 - Atuo na frente da Crédito e Prevenção à Fraudes (BR)<br>
+🧴 - Atuo na frente de Crédito e Prevenção à Fraudes (BR)<br>
 👾 - Amo joguinhos e amo correr!🏃🏻‍♀️ <br>
 👽 - 42
 
