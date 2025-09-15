@@ -8,4 +8,3 @@ Eu sou a Mel! 🍯
 👾 - Amo joguinhos e amo correr!🏃🏻‍♀️ <br>
 👽 - 42
 <br>
-<details>
